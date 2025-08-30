@@ -1,0 +1,93 @@
+Betnix Terms of Service
+
+Effective Date: August 29, 2025
+
+Welcome to BetnixTech. By accessing or using our websites, repositories, services, applications, or products (collectively, the “Services”), you agree to be bound by these Terms of Service (“Terms”). If you do not agree to these Terms, do not use our Services.
+
+1. Eligibility
+
+You must be at least 13 years old (or the minimum age required in your jurisdiction) to use our Services. By using our Services, you represent and warrant that you meet this requirement.
+
+2. Account Registration
+
+Some Services may require you to create an account. You agree to:
+
+Provide accurate, current, and complete information.
+
+Maintain the security of your login credentials.
+
+Notify us immediately of any unauthorized use of your account.
+
+BetnixTech is not responsible for any loss or damage from your failure to comply with these obligations.
+
+3. Acceptable Use
+
+You agree not to:
+
+Violate any applicable laws or regulations.
+
+Use the Services to infringe intellectual property rights.
+
+Distribute malware, viruses, or other harmful code.
+
+Interfere with the operation or security of the Services.
+
+Engage in fraudulent or harmful activities.
+
+BetnixTech reserves the right to suspend or terminate accounts that violate these rules.
+
+4. Intellectual Property
+
+All content, software, code, logos, and designs in our Services are owned or licensed by BetnixTech and are protected under copyright, trademark, and other laws.
+
+You may use content subject to the applicable license.
+
+You may not copy, modify, distribute, sell, or create derivative works without explicit permission.
+
+5. Contributions
+
+If you submit contributions to any BetnixTech project (including pull requests), you grant BetnixTech a worldwide, royalty-free, sublicensable, transferable license to use, reproduce, distribute, prepare derivative works of, and publicly display your contributions.
+
+6. Privacy
+
+Your use of the Services is subject to our Privacy Policy, which explains how we collect, use, and protect your information.
+
+7. Updates and Modifications
+
+BetnixTech may modify or discontinue Services at any time, with or without notice. We may also update these Terms. Significant changes will be communicated via our repositories or websites.
+
+8. Disclaimers
+
+The Services are provided “as-is” and “as-available.” BetnixTech disclaims all warranties, whether express or implied, including:
+
+Merchantability or fitness for a particular purpose
+
+Non-infringement of third-party rights
+
+Accuracy, completeness, or reliability
+
+9. Limitation of Liability
+
+To the fullest extent permitted by law, BetnixTech is not liable for any direct, indirect, incidental, special, consequential, or punitive damages, including but not limited to:
+
+Loss of data
+
+Loss of profits
+
+Business interruption
+
+10. Indemnification
+
+You agree to indemnify, defend, and hold harmless BetnixTech, its affiliates, officers, and employees from any claims, damages, liabilities, costs, or expenses arising from your use of the Services or violation of these Terms.
+
+11. Termination
+
+BetnixTech may suspend or terminate your access at any time for violations of these Terms or for any reason. Upon termination, your rights to use the Services immediately cease.
+
+12. Governing Law and Jurisdiction
+
+These Terms are governed by the laws of New York, New Jersey, and Maryland, United States, without regard to conflict of law principles. Any disputes will be resolved in the courts located within the counties of New York (NY), Newark (NJ), or Baltimore (MD), at BetnixTech’s discretion.
+
+13. Contact Information
+
+For questions regarding these Terms, please contact us via our GitHub profile: BetnixTech GitHub
