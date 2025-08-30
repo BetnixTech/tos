@@ -1,18 +1,26 @@
+
 <style>
   #tos {
     font-family: Arial, sans-serif;
-    font-weight: 900; /* Or 800 for extra bold */
+    font-weight: 900;
+    color: #f3faf2;
+    text-shadow: h-shadow v-shadow blur-radius color;
   }
+
   body {
-  background-image: url("https://lens.usercontent.google.com/image?vsrid=CJ2U7eTt3afPvAEQAhgBIiQ3NDg2ZWYwZi1lNWFhLTRhMDgtYjY3YS1iMjI4Nzg5MDVlYTQyBiICZ2goAjjGntS7jLOPAw&gsessionid=D5r8kx-8v58QLhtbiaXqZJKux9z3Qrae5sGomQ8ZNUg09P8_cBEsaA");
+    /* Replace the invalid blob URL with a permanent, direct image URL */
+    background-image: url("https://i.imgur.com/c8FXaEC.jpeg");
+    
+    /* Ensure the body covers the full height of the viewport */
+    height: 100vh;
 
-  /* Full height */
-  height: 100%; 
+    /* These are correctly set to make the image cover the area */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    /* Recommended: Keeps the image fixed while the user scrolls */
+    background-attachment: fixed;
   }
 </style>
 
